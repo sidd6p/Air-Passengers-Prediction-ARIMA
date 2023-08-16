@@ -28,7 +28,7 @@ This Jupyter Notebook script performs an analysis of stock data using Python lib
 
 1. Clone the repository to your local machine:
    ```sh
-   git clone [https://github.com/sidd6p/stock-analysis.git](https://github.com/sidd6p/Tesla-Stock-ARIMA-Predication.git)
+   git clone https://github.com/sidd6p/Tesla-Stock-ARIMA-Predication.git
    pip install pandas numpy matplotlib statsmodels plotly yfinance
 
    ```
