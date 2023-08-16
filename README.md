@@ -10,7 +10,6 @@ This repository contains a Jupyter Notebook script that performs analysis on sto
 - [Usage](#usage)
 - [Dependencies](#dependencies)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
