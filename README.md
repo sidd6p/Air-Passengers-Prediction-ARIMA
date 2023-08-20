@@ -12,6 +12,7 @@ Predicting the number of air passengers in upcoming months using the ARIMA (Auto
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [Results](#results)
+- [Resources](#resources)
 
 ## Introduction
 
@@ -41,6 +42,11 @@ ARIMA (AutoRegressive Integrated Moving Average) is a popular time series foreca
 ## Contributing
 
 Contributions are welcome! If you find any issues or have suggestions for improvement, please open an issue or submit a pull request. For major changes, please discuss your ideas in an issue before implementing them.
+
+## Resources
+
+- [Kaggle Discussion](https://www.kaggle.com/discussions/general/432826)
+- [A Comprehensive Guide to ARIMA](https://www.machinelearningplus.com/time-series/arima-model-time-series-forecasting-python/)
 
 
 **Disclaimer:** This project is for educational purposes and serves as a demonstration of the ARIMA model for time series prediction. It is not intended for production use.
