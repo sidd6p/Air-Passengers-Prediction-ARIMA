@@ -9,10 +9,9 @@ Predicting the number of air passengers in upcoming months using the ARIMA (Auto
 
 - [Introduction](#introduction)
 - [ARIMA Model](#arima-model)
-- [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
+- [Results](#results)
 
 ## Introduction
 
